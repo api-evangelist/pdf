@@ -6,7 +6,7 @@ description: >-
   hardware, and operating systems. This index tracks providers and standards
   related to PDF as a concept; it does not represent a single API provider.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - PDF
   - Document
