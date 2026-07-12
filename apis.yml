@@ -18,6 +18,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/pdf-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pdf-domain-security.yml
   - type: Website
     url: https://en.wikipedia.org/wiki/PDF
   - type: Specification
