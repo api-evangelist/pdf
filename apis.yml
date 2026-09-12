@@ -1,4 +1,5 @@
 aid: pdf
+x-type: concept
 name: PDF
 description: >-
   PDF (Portable Document Format) is a file format developed by Adobe in 1993
