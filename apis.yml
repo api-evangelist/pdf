@@ -32,6 +32,10 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pdf.png
 tags:
   - PDF
+  - Documents
+  - File Format
+tags_raw:
+  - PDF
   - Document
   - File Format
 url: >-
